@@ -1,6 +1,6 @@
 # Project Setup
 
-###Grace Burke
+### Grace Burke
 
 [![Production Workflow](https://github.com/GraceBurke-88/is219_flask_advanced/actions/workflows/prod.yml/badge.svg)](https://github.com/GraceBurke-88/is219_flask_advanced/actions/workflows/prod.yml)
 * [My Production Deployment](https://grace-is219-prod.herokuapp.com)
@@ -10,7 +10,7 @@
 * [My Development Deployment](https://grace-is219-dev.herokuapp.com)
 
 
-###Professor William's Example
+### Professor William's Example
 
 [![Production Workflow](https://github.com/kaw393939/docker_flask/actions/workflows/prod.yml/badge.svg)](https://github.com/kaw393939/docker_flask/actions/workflows/prod.yml)
 * [Production Deployment](https://kwilliam-prod.herokuapp.com/)
