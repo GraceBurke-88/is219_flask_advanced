@@ -6,10 +6,10 @@
 
 {% block content %}
   <form method="post">
-    <label for="username">Username</label>
+    <label for="username"><span class="glyphicon glyphicon-user" style= "color: black"  aria-hidden="true"></span> Username</label>
     <input name="username" id="username" required>
-    <label for="password">Password</label>
+    <label for="password"><span class="glyphicon glyphicon-lock" style= "color: black"  aria-hidden="true"></span> Password</label>
     <input type="password" name="password" id="password" required>
-    <input type="submit" value="Log In">
+      <button class="btn btn-outline-info" type="submit" value="Log In">Log In</button>
   </form>
 {% endblock %}
